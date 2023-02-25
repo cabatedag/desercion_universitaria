@@ -1,6 +1,6 @@
 # desercion_universitaria
 
-Aplicación de técnicas del aprendizaje estadístico supervisado para generar modelos que permita predecir qué alumnos de la carrera Ingeniería en Sistemas de la UTN FRBA abandonarán sus estudios, es decir, desertarán.
+Aplicación de técnicas del aprendizaje estadístico para generar modelos que permita predecir qué alumnos de la carrera Ingeniería en Sistemas de la UTN FRBA abandonarán sus estudios, es decir, desertarán.
 
 
 GIAR 2022-2023
@@ -8,11 +8,10 @@ GIAR 2022-2023
 Grupo de Investigación - UTN FRBA
 
 
-## El presente trabajo es una ampliación de la siguiente investigación del grupo GIAR de la UTN FRBA:
+## El presente trabajo es una continuación y ampliación de la siguiente investigación del grupo GIAR de la UTN FRBA:
 * Romero, G., et al. Predictor de deserción universitaria www.frba.edu.ar/investigacion/proyecciones (informe)
 * Análisis deserción en ingeniería https://github.com/sebajarem/Analisis_desercion_en_ingenieria (repositorio)
 
-La ampliación radica en la incorporación de una nueva feature al análisis: **'Distancia'**. Haciendo referencia esta a la distancia a la que vive cada alumno de la facultad en la que estudia.
 
 
 ## Bibliografía ##
