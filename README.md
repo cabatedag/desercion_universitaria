@@ -1,6 +1,6 @@
 # desercion_universitaria
 
-Aplicación de técnicas del aprendizaje estadístico para generar modelos que permita predecir qué alumnos de la carrera Ingeniería en Sistemas de la UTN FRBA abandonarán sus estudios, es decir, desertarán.
+Aplicación de técnicas del aprendizaje estadístico para generar modelos que permitan predecir qué alumnos de la carrera Ingeniería en Sistemas de la UTN FRBA abandonarán sus estudios, es decir, desertarán.
 
 
 2022-2023
